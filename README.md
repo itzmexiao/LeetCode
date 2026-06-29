@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itzmexiao/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/itzmexiao/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0058-length-of-last-word](https://github.com/itzmexiao/LeetCode/tree/master/0058-length-of-last-word) |
 ## Dynamic Programming
 |  |
 | ------- |
