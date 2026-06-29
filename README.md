@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itzmexiao/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0410-split-array-largest-sum](https://github.com/itzmexiao/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/itzmexiao/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/itzmexiao/LeetCode/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itzmexiao/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/itzmexiao/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Array
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/itzmexiao/LeetCode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itzmexiao/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itzmexiao/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/itzmexiao/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/itzmexiao/LeetCode/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
@@ -67,9 +70,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/itzmexiao/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/itzmexiao/LeetCode/tree/master/0455-assign-cookies) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/itzmexiao/LeetCode/tree/master/0412-fizz-buzz) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/itzmexiao/LeetCode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
