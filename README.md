@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/itzmexiao/LeetCode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/itzmexiao/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/itzmexiao/LeetCode/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/itzmexiao/LeetCode/tree/master/0766-toeplitz-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,4 +109,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/itzmexiao/LeetCode/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/itzmexiao/LeetCode/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
