@@ -19,9 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/itzmexiao/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/itzmexiao/LeetCode/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/itzmexiao/LeetCode/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/itzmexiao/LeetCode/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
