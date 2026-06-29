@@ -60,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/itzmexiao/LeetCode/tree/master/0766-toeplitz-matrix) |
 | [0896-monotonic-array](https://github.com/itzmexiao/LeetCode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/itzmexiao/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0997-find-the-town-judge](https://github.com/itzmexiao/LeetCode/tree/master/0997-find-the-town-judge) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/itzmexiao/LeetCode/tree/master/0013-roman-to-integer) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itzmexiao/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/itzmexiao/LeetCode/tree/master/0645-set-mismatch) |
+| [0997-find-the-town-judge](https://github.com/itzmexiao/LeetCode/tree/master/0997-find-the-town-judge) |
 ## Sorting
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/itzmexiao/LeetCode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/itzmexiao/LeetCode/tree/master/0766-toeplitz-matrix) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/itzmexiao/LeetCode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
