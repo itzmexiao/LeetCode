@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/itzmexiao/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itzmexiao/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itzmexiao/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/itzmexiao/LeetCode/tree/master/0455-assign-cookies) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/itzmexiao/LeetCode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itzmexiao/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itzmexiao/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/itzmexiao/LeetCode/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itzmexiao/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/itzmexiao/LeetCode/tree/master/0455-assign-cookies) |
 ## Stack
 |  |
 | ------- |
@@ -57,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/itzmexiao/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/itzmexiao/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
