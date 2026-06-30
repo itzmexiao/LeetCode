@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/itzmexiao/LeetCode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/itzmexiao/LeetCode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/itzmexiao/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/itzmexiao/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/itzmexiao/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itzmexiao/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/itzmexiao/LeetCode/tree/master/0645-set-mismatch) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/itzmexiao/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/itzmexiao/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/itzmexiao/LeetCode/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/itzmexiao/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/itzmexiao/LeetCode/tree/master/0645-set-mismatch) |
 | [0997-find-the-town-judge](https://github.com/itzmexiao/LeetCode/tree/master/0997-find-the-town-judge) |
 ## Sorting
@@ -97,10 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/itzmexiao/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/itzmexiao/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/itzmexiao/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/itzmexiao/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
