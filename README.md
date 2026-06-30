@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itzmexiao/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itzmexiao/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/itzmexiao/LeetCode/tree/master/0125-valid-palindrome) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itzmexiao/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/itzmexiao/LeetCode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/itzmexiao/LeetCode/tree/master/0455-assign-cookies) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/itzmexiao/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/itzmexiao/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/itzmexiao/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/itzmexiao/LeetCode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/itzmexiao/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/itzmexiao/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/itzmexiao/LeetCode/tree/master/0409-longest-palindrome) |
