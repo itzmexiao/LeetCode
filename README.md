@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itzmexiao/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/itzmexiao/LeetCode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/itzmexiao/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/itzmexiao/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Math
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/itzmexiao/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/itzmexiao/LeetCode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/itzmexiao/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/itzmexiao/LeetCode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itzmexiao/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0219-contains-duplicate-ii](https://github.com/itzmexiao/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/itzmexiao/LeetCode/tree/master/0383-ransom-note) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/itzmexiao/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
