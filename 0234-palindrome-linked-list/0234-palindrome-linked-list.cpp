@@ -11,25 +11,17 @@
 
 class Solution {
 public:
-    ListNode* front;
-
-    bool check(ListNode* current) {
-        if (current == NULL)
+    ListNode* start;
+    bool check(ListNode* head){
+        if(head==NULL)
             return true;
-
-        if (!check(current->next))
-            return false;
-
-        if (front->val != current->val)
-            return false;
-
-        front = front->next;
-
-        return true;
+        bool Ck = check(head->next) & head->val==start->val;
+        start = start->next;
+        return Ck;
     }
-
+public:
     bool isPalindrome(ListNode* head) {
-        front = head;
+        start=head;
         return check(head);
     }
 };
