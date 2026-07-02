@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/itzmexiao/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/itzmexiao/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/itzmexiao/LeetCode/tree/master/0704-binary-search) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/itzmexiao/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Array
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/itzmexiao/LeetCode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/itzmexiao/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/itzmexiao/LeetCode/tree/master/0997-find-the-town-judge) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/itzmexiao/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/itzmexiao/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/itzmexiao/LeetCode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/itzmexiao/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/itzmexiao/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Simulation
 |  |
 | ------- |
