@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/itzmexiao/LeetCode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/itzmexiao/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/itzmexiao/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/itzmexiao/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itzmexiao/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0219-contains-duplicate-ii](https://github.com/itzmexiao/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/itzmexiao/LeetCode/tree/master/0228-summary-ranges) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/itzmexiao/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/itzmexiao/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/itzmexiao/LeetCode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/itzmexiao/LeetCode/tree/master/0645-set-mismatch) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/itzmexiao/LeetCode/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/itzmexiao/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
