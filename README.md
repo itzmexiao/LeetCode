@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/itzmexiao/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/itzmexiao/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/itzmexiao/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/itzmexiao/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/itzmexiao/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Hash Table
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/itzmexiao/LeetCode/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/itzmexiao/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/itzmexiao/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/itzmexiao/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/itzmexiao/LeetCode/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/itzmexiao/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/itzmexiao/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
 |  |
 | ------- |
@@ -209,4 +212,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/itzmexiao/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/itzmexiao/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
