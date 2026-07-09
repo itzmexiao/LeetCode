@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/itzmexiao/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/itzmexiao/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/itzmexiao/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/itzmexiao/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/itzmexiao/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2235-add-two-integers](https://github.com/itzmexiao/LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/itzmexiao/LeetCode/tree/master/2469-convert-the-temperature) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/itzmexiao/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/itzmexiao/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/itzmexiao/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/itzmexiao/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/itzmexiao/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/itzmexiao/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/itzmexiao/LeetCode/tree/master/1929-concatenation-of-array) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/itzmexiao/LeetCode/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/itzmexiao/LeetCode/tree/master/0645-set-mismatch) |
 | [0997-find-the-town-judge](https://github.com/itzmexiao/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1512-number-of-good-pairs](https://github.com/itzmexiao/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/itzmexiao/LeetCode/tree/master/0383-ransom-note) |
+| [1512-number-of-good-pairs](https://github.com/itzmexiao/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
