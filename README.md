@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/itzmexiao/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/itzmexiao/LeetCode/tree/master/0053-maximum-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/itzmexiao/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/itzmexiao/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/itzmexiao/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Math
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/itzmexiao/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/itzmexiao/LeetCode/tree/master/0069-sqrtx) |
+| [0300-longest-increasing-subsequence](https://github.com/itzmexiao/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itzmexiao/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/itzmexiao/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/itzmexiao/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/itzmexiao/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0219-contains-duplicate-ii](https://github.com/itzmexiao/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/itzmexiao/LeetCode/tree/master/0228-summary-ranges) |
+| [0300-longest-increasing-subsequence](https://github.com/itzmexiao/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/itzmexiao/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/itzmexiao/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/itzmexiao/LeetCode/tree/master/0455-assign-cookies) |
