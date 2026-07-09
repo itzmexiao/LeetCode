@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/itzmexiao/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/itzmexiao/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/itzmexiao/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/itzmexiao/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/itzmexiao/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/itzmexiao/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/itzmexiao/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/itzmexiao/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/itzmexiao/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/itzmexiao/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Hash Table
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/itzmexiao/LeetCode/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/itzmexiao/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/itzmexiao/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/itzmexiao/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
 | ------- |
