@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/itzmexiao/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2235-add-two-integers](https://github.com/itzmexiao/LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/itzmexiao/LeetCode/tree/master/2469-convert-the-temperature) |
+| [2652-sum-multiples](https://github.com/itzmexiao/LeetCode/tree/master/2652-sum-multiples) |
 ## Binary Search
 |  |
 | ------- |
