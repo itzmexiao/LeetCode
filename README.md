@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/itzmexiao/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/itzmexiao/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/itzmexiao/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1920-build-array-from-permutation](https://github.com/itzmexiao/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/itzmexiao/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/itzmexiao/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/itzmexiao/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/itzmexiao/LeetCode/tree/master/0412-fizz-buzz) |
+| [1920-build-array-from-permutation](https://github.com/itzmexiao/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/itzmexiao/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
