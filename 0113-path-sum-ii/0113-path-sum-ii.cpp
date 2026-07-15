@@ -31,5 +31,5 @@ public:
                 dfs(node->right, targetSum, currSum, path, res);
 
                 path.pop_back();
-            }
+        }
 };
