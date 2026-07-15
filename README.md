@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/itzmexiao/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/itzmexiao/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/itzmexiao/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/itzmexiao/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1773-count-items-matching-a-rule](https://github.com/itzmexiao/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/itzmexiao/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Dynamic Programming
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/itzmexiao/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0463-island-perimeter](https://github.com/itzmexiao/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/itzmexiao/LeetCode/tree/master/0733-flood-fill) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/itzmexiao/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/itzmexiao/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/itzmexiao/LeetCode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/itzmexiao/LeetCode/tree/master/0113-path-sum-ii) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/itzmexiao/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/itzmexiao/LeetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/itzmexiao/LeetCode/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Combinatorics
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/itzmexiao/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/itzmexiao/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/itzmexiao/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/itzmexiao/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
 | ------- |
@@ -298,4 +302,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/itzmexiao/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/itzmexiao/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/itzmexiao/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0988-smallest-string-starting-from-leaf](https://github.com/itzmexiao/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
