@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/itzmexiao/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/itzmexiao/LeetCode/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/itzmexiao/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0463-island-perimeter](https://github.com/itzmexiao/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/itzmexiao/LeetCode/tree/master/0733-flood-fill) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/itzmexiao/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/itzmexiao/LeetCode/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/itzmexiao/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/itzmexiao/LeetCode/tree/master/0733-flood-fill) |
 ## Matrix
@@ -276,11 +278,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/itzmexiao/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/itzmexiao/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/itzmexiao/LeetCode/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/itzmexiao/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/itzmexiao/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/itzmexiao/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/itzmexiao/LeetCode/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/itzmexiao/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
