@@ -11,6 +11,8 @@
  */
 class Solution {
 public:
+    // TC: O(n)
+    // SC: O(n)
     void preorder(TreeNode* root, vector<int>& path, int sum, int target,
                   vector<vector<int>>& ans) {
         if (root == NULL)
