@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/itzmexiao/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/itzmexiao/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0680-valid-palindrome-ii](https://github.com/itzmexiao/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0720-longest-word-in-dictionary](https://github.com/itzmexiao/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/itzmexiao/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1773-count-items-matching-a-rule](https://github.com/itzmexiao/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/itzmexiao/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/itzmexiao/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/itzmexiao/LeetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/itzmexiao/LeetCode/tree/master/0704-binary-search) |
+| [0720-longest-word-in-dictionary](https://github.com/itzmexiao/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/itzmexiao/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/itzmexiao/LeetCode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/itzmexiao/LeetCode/tree/master/0766-toeplitz-matrix) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/itzmexiao/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/itzmexiao/LeetCode/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/itzmexiao/LeetCode/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/itzmexiao/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0997-find-the-town-judge](https://github.com/itzmexiao/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1512-number-of-good-pairs](https://github.com/itzmexiao/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Sorting
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/itzmexiao/LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itzmexiao/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/itzmexiao/LeetCode/tree/master/0645-set-mismatch) |
+| [0720-longest-word-in-dictionary](https://github.com/itzmexiao/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0977-squares-of-a-sorted-array](https://github.com/itzmexiao/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/itzmexiao/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
@@ -303,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/itzmexiao/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/itzmexiao/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/itzmexiao/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
+## Trie
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/itzmexiao/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
