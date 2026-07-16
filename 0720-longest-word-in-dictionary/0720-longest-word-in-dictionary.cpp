@@ -1,15 +1,24 @@
 class Solution {
 public:
+    bool check(string word, unordered_set<string>& st){
+        if(word.size() == 1)
+            return st.count(word);
+        if(!st.count(word))
+            return false;
+        word.pop_back();
+        return check(word, st);
+    }
     string longestWord(vector<string>& words) {
-        sort(words.begin(), words.end());
-        unordered_set<string> built;
-        string res;
-        for(string w : words){
-            if(w.size() == 1 || built.count(w.substr(0,w.size()-1))){
-                res = w.size() > res.size() ? w:res;
-                built.insert(w);
+         unordered_set<string> st(words.begin(), words.end());
+         string ans = "";
+         for(string w : words){
+            if(check(w, st)){
+                if(w.size() > ans.size())
+                    ans = w;
+                else if(w.size() == ans.size() && w < ans)
+                    ans = w;
             }
-        }
-        return res;
+         }
+         return ans;
     }
 };
