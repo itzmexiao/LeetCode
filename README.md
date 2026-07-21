@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/itzmexiao/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/itzmexiao/LeetCode/tree/master/0733-flood-fill) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/itzmexiao/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1971-find-if-path-exists-in-graph](https://github.com/itzmexiao/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/itzmexiao/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0463-island-perimeter](https://github.com/itzmexiao/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/itzmexiao/LeetCode/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/itzmexiao/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/itzmexiao/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1971-find-if-path-exists-in-graph](https://github.com/itzmexiao/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sliding Window
 |  |
 | ------- |
@@ -322,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/itzmexiao/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/itzmexiao/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
