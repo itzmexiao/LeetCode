@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/itzmexiao/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/itzmexiao/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/itzmexiao/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0200-number-of-islands](https://github.com/itzmexiao/LeetCode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/itzmexiao/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/itzmexiao/LeetCode/tree/master/0228-summary-ranges) |
 | [0300-longest-increasing-subsequence](https://github.com/itzmexiao/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/itzmexiao/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/itzmexiao/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/itzmexiao/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/itzmexiao/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/itzmexiao/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/itzmexiao/LeetCode/tree/master/0733-flood-fill) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/itzmexiao/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -216,12 +218,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/itzmexiao/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/itzmexiao/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/itzmexiao/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/itzmexiao/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/itzmexiao/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/itzmexiao/LeetCode/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/itzmexiao/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/itzmexiao/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/itzmexiao/LeetCode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/itzmexiao/LeetCode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/itzmexiao/LeetCode/tree/master/0766-toeplitz-matrix) |
@@ -328,5 +332,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/itzmexiao/LeetCode/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/itzmexiao/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
