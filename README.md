@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/itzmexiao/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/itzmexiao/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/itzmexiao/LeetCode/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/itzmexiao/LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/itzmexiao/LeetCode/tree/master/0704-binary-search) |
 | [0720-longest-word-in-dictionary](https://github.com/itzmexiao/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0724-find-pivot-index](https://github.com/itzmexiao/LeetCode/tree/master/0724-find-pivot-index) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/itzmexiao/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/itzmexiao/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/itzmexiao/LeetCode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/itzmexiao/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/itzmexiao/LeetCode/tree/master/0733-flood-fill) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/itzmexiao/LeetCode/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1971-find-if-path-exists-in-graph](https://github.com/itzmexiao/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/itzmexiao/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/itzmexiao/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/itzmexiao/LeetCode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/itzmexiao/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/itzmexiao/LeetCode/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/itzmexiao/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/itzmexiao/LeetCode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/itzmexiao/LeetCode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/itzmexiao/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/itzmexiao/LeetCode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/itzmexiao/LeetCode/tree/master/0766-toeplitz-matrix) |
 ## Graph Theory
@@ -333,5 +337,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/itzmexiao/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/itzmexiao/LeetCode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/itzmexiao/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
